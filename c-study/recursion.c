@@ -19,3 +19,6 @@ int main() {
   int k = 4;
   printf("%d", facto(k));
   return(0) ;
+}
+
+
